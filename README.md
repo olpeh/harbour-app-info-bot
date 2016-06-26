@@ -11,5 +11,5 @@ apt-get install xvfb python-mysqldb libmysqlclient-dev
 ## Usage
 - Install the requirements
 - Create a secrets.py file including your username and password
-- Sun python run.py to see if it works
+- Run python run.py to see if it works
 - Set a cron script to run it as often as you desire to (eg. */30 * * * * /path-to-destination/run.py)
